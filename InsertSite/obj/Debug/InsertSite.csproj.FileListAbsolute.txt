@@ -1,0 +1,10 @@
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\bin\Debug\InsertSite.exe.config
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\bin\Debug\InsertSite.exe
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\bin\Debug\InsertSite.pdb
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.csprojAssemblyReference.cache
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.Form1.resources
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.Properties.Resources.resources
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.csproj.GenerateResource.cache
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.exe
+C:\Users\Jessica\Desktop\Projects\InsertSite\InsertSite\obj\Debug\InsertSite.pdb
